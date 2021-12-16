@@ -8,7 +8,7 @@
 
 ## Introduction
 
-`runc` is a CLI tool for spawning and running containers on Linux according to the OCI specification.
+`runc` is a CLI tool for spawning and running containers on Linux according to the OCI specification. This repo contains a lightly modified `runc` that allows customized names for config files.
 
 ## Releases
 
